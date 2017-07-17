@@ -5,7 +5,7 @@ Reactjs for cli using ink https://github.com/vadimdemedes/ink
 this is a boilerplate for ink 
 
 
-#usage
+# Usage
 - npm i
 
 - write your app in src/app.jsx this is the entry file
