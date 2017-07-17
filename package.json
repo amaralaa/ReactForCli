@@ -1,0 +1,22 @@
+{
+  "name": "reactForCliInk",
+  "version": "0.0.1",
+  "main": "app.js",
+  "author": "Eng. Amar Alaa",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel src -d ./ && node app.js",
+    "bundle": "babel src -d ./"
+  },
+  "dependencies": {
+    "ink": "^0.2.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
